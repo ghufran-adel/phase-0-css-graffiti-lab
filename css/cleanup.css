@@ -1,1 +1,22 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+
+  #tag-2{
+      position:reletive ;
+      margin: 10px;
+  }
+
+  .parent{
+      backgrond-color:red;
+      display:flex;
+  }
+  div#tag-3 .parent{
+      display:none;
+      background-color:-none
+  }
+  #tag-6 {
+    display:none;
+    background-color:-none
+  }
